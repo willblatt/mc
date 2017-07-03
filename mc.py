@@ -1,3 +1,5 @@
+# https://www.johndcook.com/blog/distributions_scipy/
+
 from scipy import stats
 import numpy as np
 
